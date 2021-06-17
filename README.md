@@ -1,6 +1,6 @@
 - 👋 Hi, I’m srivanigandham
 - 👀 I’m interested in learning new things.
-- 🌱 I’m currently learning Python and other languages coading.
+- 🌱 I’m currently learning Python and other coading languages.
 - 💞️ I’m looking to collaborate with your company and training programs.
 - 📫 How to reach me @vanigandham7@gmail.com
 <!---
